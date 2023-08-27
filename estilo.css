@@ -1,0 +1,44 @@
+*{background-color: rgb(201, 194, 98)}
+
+.header {
+    text-align:center;
+    color:rgb(60, 92, 57);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(221, 18, 18, 0.281);
+    padding: 10px;
+    font-size: 50px
+}
+
+.face {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recetas {
+    background-color: rgba(221, 18, 18, 0.281);
+    text-align: center;
+    font-size: 75px;
+
+}
+
+.recetas-link {
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.comidas {
+    font-size: 50px;
+    text-align: center;
+    background-color: rgba(221, 18, 18, 0.603);
+
+}
+
+.Instrucciones {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+    
+}
